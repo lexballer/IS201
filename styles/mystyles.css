@@ -1,0 +1,27 @@
+a {
+    color:darkblue;
+    font-style: bold;
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+}
+p {
+    color:blue;
+    font-size: 16px;
+}
+body {
+    color:darkcyan;
+    font-style: underline;
+}
+
+text {
+    font-family:'Times New Roman', Times, serif;
+}
+
+img {
+    width: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
